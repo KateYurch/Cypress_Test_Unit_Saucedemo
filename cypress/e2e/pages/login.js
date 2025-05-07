@@ -15,4 +15,8 @@ export class LoginPage {
   clickLogin() {
     cy.get(this.login_button).click()
   }
+  pasteCredentials(username, password) {
+    cy.get(this.username_textbox).invoke('val', username)
+    cy.get(this.password_textbox).invoke('val', password)
+  }
 }
