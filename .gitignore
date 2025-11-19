@@ -1,1 +1,4 @@
 *.doc
+!Test_model.doc
+!Test_plan.doc
+!Test_strategy.doc
