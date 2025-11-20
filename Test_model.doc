@@ -1,0 +1,13 @@
+1. Types of tests:
+
+- Functional testing, which includes checking that login functionality work correctly.
+- Non-functional testing, includes ensuring high level of security for login functionality.
+
+2. Sequence of test execution:
+
+- End-to-end testing for login functionality.
+
+3. Tools used:
+
+- Cypress for automated end-to-end and security testing.
+- Security testing includes testing for common web valnurabilities using Cypress script scenarious.

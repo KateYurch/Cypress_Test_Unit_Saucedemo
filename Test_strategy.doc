@@ -1,0 +1,12 @@
+1. General aproach:
+
+The focus on the functional and secure use of the application.
+
+2. Test methods:
+
+- Functional testing, which includes checking the operation of login functionality of the application.
+- Security testing, which oncludes checking for valnurabilities, and protection of user data.
+
+3. Resources and timing:
+
+Dedicated  independent test server - https://www.saucedemo.com/ is used for end to end testing of login functionality.
